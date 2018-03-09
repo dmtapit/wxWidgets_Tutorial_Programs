@@ -4,6 +4,10 @@ SimpleMenu::SimpleMenu(const wxString& title) : wxFrame(NULL, wxID_ANY, title, w
 {
 	menubar = new wxMenuBar;
 	file = new wxMenu;
+	/* The '&' character creates an accelerator key.
+	 * The character that follows the & is underlined.
+	 * This way the menu is accessible via the Alt+F shortcut
+	 */
 	file->Append(wxID_EXIT, wxT("&Quit"));
 	menubar->Append(file, wxT("&File"));
 	SetMenuBar(menubar);
