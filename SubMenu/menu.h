@@ -14,4 +14,4 @@ public:
 	wxMenu *imp;
 	wxMenuItem *quit;
 
-}; #pragma once
+};
