@@ -1,0 +1,17 @@
+﻿  textdrop.cpp
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.h(15): error C2143: syntax error: missing ';' before '*'
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.h(15): error C2238: unexpected token(s) preceding ';'
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.cpp(11): error C2065: 'm_gdir': undeclared identifier
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.cpp(21): error C2065: 'm_gdir': undeclared identifier
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.cpp(21): error C2227: left of '->GetTreeCtrl' must point to class/struct/union/generic type
+  c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.cpp(21): note: type is 'unknown-type'
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.cpp(24): error C2065: 'm_gdir': undeclared identifier
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.cpp(45): error C2065: 'm_gdir': undeclared identifier
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.cpp(45): error C2227: left of '->GetPath' must point to class/struct/union/generic type
+  c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.cpp(45): note: type is 'unknown-type'
+  main.cpp
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.h(15): error C2143: syntax error: missing ';' before '*'
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dean tapit\source\repos\wxwidgets_tutorial_programs\tutorialprograms\wxwidgets_draganddrop\textdrop.h(15): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
